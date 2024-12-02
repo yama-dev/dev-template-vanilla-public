@@ -1,0 +1,22 @@
+{
+  "name": "dev-template-vanilla-public",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "@yama-dev",
+  "license": "MIT",
+  "dependencies": {
+    "@types/minimist": "^1.2.5",
+    "browser-sync": "^3.0.2",
+    "chalk": "^4.1.2",
+    "chokidar": "^4.0.1",
+    "clear": "^0.1.0",
+    "convict": "^6.2.4",
+    "cross-env": "^7.0.3",
+    "ejs": "^3.1.10",
+    "json5": "^2.2.3",
+    "minimist": "^1.2.8",
+    "pretty-error": "^4.0.0",
+    "sass": "^1.81.0"
+  }
+}
