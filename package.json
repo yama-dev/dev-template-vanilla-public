@@ -14,6 +14,8 @@
     "convict": "^6.2.4",
     "cross-env": "^7.0.3",
     "ejs": "^3.1.10",
+    "fast-glob": "^3.3.2",
+    "fs-extra": "^11.2.0",
     "json5": "^2.2.3",
     "minimist": "^1.2.8",
     "pretty-error": "^4.0.0",
